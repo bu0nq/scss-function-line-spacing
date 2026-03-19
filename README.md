@@ -1,10 +1,9 @@
-# Style.SCSS.Constant.TextSize
+# SCSS Function Line Height
 
-Package for integrating `Style.SCSS.Constant.TextSize` in a web environment.
+Package for integrating `SCSS Function Line Height` in a web environment.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.constant.text-size?style=for-the-badge)
-![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.constant.text-size?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.constant.text-size?style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@bu0nq/scss-function-line-height?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@bu0nq/scss-function-line-height?style=for-the-badge)
 ___
 
 ## Installation
@@ -12,5 +11,5 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @bu0nq/style.scss.constant.text-size
+npm i @bu0nq/scss-function-line-height
 ```

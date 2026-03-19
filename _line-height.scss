@@ -1,0 +1,11 @@
+@use "sass:math";
+@use "@bu0nq/scss-function-strip-unit" as *;
+
+$interval: 1.5 !default;
+
+@function line-height(
+  $value,
+  $interval: $interval
+) {
+  @return strip-unit($value) * $interval * 1px;
+}
