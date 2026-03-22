@@ -1,14 +1,14 @@
 {
-  "name": "@bu0nq/scss-function-line-height",
+  "name": "@bu0nq/scss-function-line-spacing",
   "version": "2.0.0",
-  "description": "A package for integrating the text line height calculation function",
+  "description": "A package for integrating the line spacing calculation function",
   "keywords": [
     "scss",
     "style",
     "frontend",
     "function",
     "functions",
-    "line-height"
+    "line-spacing"
   ],
   "main": "index.scss",
   "exports": {
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/scss-function-line-height.git"
+    "url": "git+https://github.com/bu0nq/scss-function-line-spacing.git"
   },
   "bugs": {
-    "url": "https://github.com/bu0nq/scss-function-line-height/issues"
+    "url": "https://github.com/bu0nq/scss-function-line-spacing/issues"
   },
-  "homepage": "https://github.com/bu0nq/scss-function-line-height#readme",
+  "homepage": "https://github.com/bu0nq/scss-function-line-spacing#readme",
   "publishConfig": {
     "access": "public"
   }

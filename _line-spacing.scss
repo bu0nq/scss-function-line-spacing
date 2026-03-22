@@ -1,6 +1,6 @@
 $interval: 1.5 !default;
 
-@function line-height(
+@function line-spacing(
   $value,
   $interval: $interval
 ) {
