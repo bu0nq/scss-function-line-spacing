@@ -1,14 +1,14 @@
 {
-  "name": "@bu0nq/scss-function-line-spacing",
-  "version": "2.0.0",
-  "description": "A package for integrating the line spacing calculation function",
+  "name": "@bu0nq/scss-mixin-autofill",
+  "version": "0.1.0",
+  "description": "A package for integrating a mixin for styling auto-completion of input fields.",
   "keywords": [
     "scss",
     "style",
     "frontend",
-    "function",
-    "functions",
-    "line-spacing"
+    "mixin",
+    "mixins",
+    "autofill"
   ],
   "main": "index.scss",
   "exports": {
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/scss-function-line-spacing.git"
+    "url": "git+https://github.com/bu0nq/scss-mixin-autofill.git"
   },
   "bugs": {
-    "url": "https://github.com/bu0nq/scss-function-line-spacing/issues"
+    "url": "https://github.com/bu0nq/scss-mixin-autofill/issues"
   },
-  "homepage": "https://github.com/bu0nq/scss-function-line-spacing#readme",
+  "homepage": "https://github.com/bu0nq/scss-mixin-autofill#readme",
   "publishConfig": {
     "access": "public"
   }
